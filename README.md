@@ -1,5 +1,4 @@
 # **SVM Diabetes**  
-#   
 # **Desempenho de Técnicas de Machine Learning na Previsão de Resultados Clínicos.**  
   
 Nosso trabalho é sobre a aplicação de Machine Learning na previsão de resultados clínicos, usando o SVM que é um algoritmo de aprendizado de máquina e o nosso estudo de caso foi a precisão do uso destes modelos na detecção de **diabetes.**  
